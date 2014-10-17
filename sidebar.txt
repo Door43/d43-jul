@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jul:home|Door43 (jul)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jul|d43-jul repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jul/archive/master.zip|d43-jul.zip]]
+
+**Recent Changes**
+{{changes>ns = jul}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jul|Ethnologue data]]
+
